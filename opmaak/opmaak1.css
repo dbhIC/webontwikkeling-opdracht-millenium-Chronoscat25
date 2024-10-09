@@ -1,4 +1,13 @@
 body {
 	background-color: white;
+	font-size: 18px;
 	}
+
+h1{
+	color:black;
+}
+
+.link{
+	color: mediumblue;
+}
 
